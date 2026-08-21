@@ -1,0 +1,9 @@
+variables:
+  catalog_name:
+    default: assetbundles
+  schema_name:
+    default: bronze
+  table_name: 
+    default: sales
+    
+  
